@@ -1,4 +1,7 @@
-Tarkoitus on tehdä nettisivut joiden avulla olisi helppo nähdä millaisia eläimiä on mahdollisia adoptoitavaksi ja keitä on adoptoitu jo.
-Sivun kuuluisi myös olla nätin näköinen ja värinen. 
-Yksi vapaaehtoisista on sokea, joten sivun pitäsi olla luottavissa/käytettävissä vaikka olet sokea.
-Pitäisi pystyä lähettämään sähköpostia.
+Sivuston tulisi saavuttaa toivotut elementit
+Pystä näkemään kävijät
+Etusivu, koirat ja kissat erikseen ja adoptoidut
+Otamme toimivat asiat malliksi ja niiden mukaisesti teemme
+lämmin, ystävällinen ja kotoisa
+lemmikkien kuvat tarvitsee
+kuvan pitää kadota ja nähdä adoptoiduissa
