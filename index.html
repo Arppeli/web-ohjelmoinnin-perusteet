@@ -1,11 +1,49 @@
+
 <!DOCTYPE html>
 <html lang="fi">
 <head>
     <meta charset="UTF-8">
-    <title>Ensimmäinen sivuni</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tassula ry - Etusivu</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Hei, olen Aaron</h1>
-    <p>Tämä on esinsimmäinen sivuni</p>
+
+    <a href="#main" class="skip-link">Siirry pääsisältöön</a>
+
+    <header>
+        <h1>Tassula ry</h1>
+        <p>Kotia odottavat eläimet ansaitsevat uuden mahdollisuuden.</p>
+
+        <nav aria-label="Päävalikko">
+            <ul>
+                <li><a href="index.html" aria-current="page">Etusivu</a></li>
+                <li><a href="listing.html">Eläimet</a></li>
+                <li><a href="about.html">Adoptio</a></li>
+                <li><a href="contact.html">Yhteystiedot</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="main">
+        <h2>Tervetuloa Tassulaan!</h2>
+
+        <p>
+            Tassula ry on vapaaehtoisvoimin toimiva
+            eläinsuoja Seinäjoen lähellä.
+        </p>
+
+        <p>
+            Autamme kodittomia eläimiä löytämään
+            rakastavan ja turvallisen kodin.
+        </p>
+
+        <a href="listing.html">Tutustu kotia etsiviin eläimiin</a>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Tassula ry</p>
+    </footer>
+
 </body>
 </html>
